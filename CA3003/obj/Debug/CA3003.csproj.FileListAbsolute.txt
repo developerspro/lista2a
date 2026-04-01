@@ -1,0 +1,16 @@
+C:\Users\Professor\source\repos\CA3003\CA3003\bin\Debug\CA3003.exe.config
+C:\Users\Professor\source\repos\CA3003\CA3003\bin\Debug\CA3003.exe
+C:\Users\Professor\source\repos\CA3003\CA3003\bin\Debug\CA3003.pdb
+C:\Users\Professor\source\repos\CA3003\CA3003\obj\Debug\CA3003.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\CA3003\CA3003\obj\Debug\CA3003.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\CA3003\CA3003\obj\Debug\CA3003.exe
+C:\Users\Professor\source\repos\CA3003\CA3003\obj\Debug\CA3003.pdb
+C:\Users\Professor\source\repos\CA3003\CA3003\obj\Debug\CA3003.exe.config
+C:\Users\Professor\source\repos\CA0104\CA3003\bin\Debug\CA3003.exe.config
+C:\Users\Professor\source\repos\CA0104\CA3003\bin\Debug\CA3003.exe
+C:\Users\Professor\source\repos\CA0104\CA3003\bin\Debug\CA3003.pdb
+C:\Users\Professor\source\repos\CA0104\CA3003\obj\Debug\CA3003.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\CA0104\CA3003\obj\Debug\CA3003.exe.config
+C:\Users\Professor\source\repos\CA0104\CA3003\obj\Debug\CA3003.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\CA0104\CA3003\obj\Debug\CA3003.exe
+C:\Users\Professor\source\repos\CA0104\CA3003\obj\Debug\CA3003.pdb

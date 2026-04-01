@@ -24,7 +24,7 @@ namespace exercicio6
 
         public void mostrarResultado()
         {
-            Console.WriteLine("numero:{0} e seu dobro{1}",numero,dobro);
+            Console.WriteLine("numero:{0} e seu dobro:{1}",numero,dobro);
         }
     }
 }
