@@ -1,0 +1,8 @@
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\bin\Debug\exercicio7.exe.config
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\bin\Debug\exercicio7.exe
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\bin\Debug\exercicio7.pdb
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\obj\Debug\exercicio7.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\obj\Debug\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\obj\Debug\exercicio7.exe
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\obj\Debug\exercicio7.pdb
+C:\Users\Professor\source\repos\CA0104\ConsoleApp1\obj\Debug\exercicio7.exe.config
